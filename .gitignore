@@ -1,4 +1,10 @@
-# Presentation Files
+# Temporary files
+*~*
+
+# Video files
+*.mp4
+
+# Presentation files
 *.ppt
 *.pptx
 
