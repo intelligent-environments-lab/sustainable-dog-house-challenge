@@ -3,6 +3,7 @@
 
 # Temporary files
 *~*
+*DS_*
 
 # Video files
 *.mp4
