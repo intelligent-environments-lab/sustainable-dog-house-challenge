@@ -5,6 +5,9 @@
 *~*
 *DS_*
 
+# Illustrator
+*.ai
+
 # Video files
 *.mp4
 
