@@ -8,8 +8,10 @@
 # Illustrator
 *.ai
 
-# Video files
+# Video/Audio files
 *.mp4
+*.wav
+*.mp3
 
 # Presentation files
 *.ppt
