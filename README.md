@@ -20,3 +20,8 @@ The event is open to all students in the Civil, Architectural, and Environmental
 
 ## Can I get involved?
 Absolutely! The organizers are always looking for extra help. Please email Hagen Fritz at hagenfritz@utexas.edu if you would wish to help out with the current or future events.
+
+## How do I work this website?
+We are using Github because we can upload documents about the competition, pictures, and other files from this and previous years of the challenge. Most of the information that you need about the actual competition can be found on the [wiki](https://github.com/intelligent-environments-lab/sustainable-dog-house-challenge/wiki) pages, but another nice aspect of Github that we are leveraging for this competition is the [issues](https://github.com/intelligent-environments-lab/sustainable-dog-house-challenge/issues) tab that you can find at the top. Here, participants and others can "raise" issues to ask questions, give feedback/suggestions, and anything else they think is pertinent to the competition.
+
+The [video]() below gives a little overview of how to use this specific Github repository to its fullest extend.
