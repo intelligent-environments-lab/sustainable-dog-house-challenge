@@ -1,6 +1,8 @@
 # UT Austin Sustainable Dog House Challenge
 The Sustainable Dog House Challenge (SDHC) was started at the University of Texas at Austin in 2016 by Dr. Richard L. Corsi, the department chair at the time. Dr. Corsi combined his love of dogs, passion for sustainability, and ideals from the department to bring students this challenge.
 
+[![SDHC Promo](https://img.youtube.com/vi/qfngNVp9Ezk/maxresdefault.jpg)](https://www.youtube.com/embed/qfngNVp9Ezk)
+
 ## What is the SDHC?
 The purpose of the SDHC is to bring students together so they can learn about sustainable design. Students are tasked with scavenging materials from around the greater-Austin area to build a physical model that can safely and comfortably house a medium-sized dog at minimum. The more creative that students can re-puprose materials, the better and in the competition's history we have seen students build houses from old canoes, busted dumpsters, and even lightweight concrete with recycled materials as the aggregate. 
 
@@ -20,3 +22,8 @@ The event is open to all students in the Civil, Architectural, and Environmental
 
 ## Can I get involved?
 Absolutely! The organizers are always looking for extra help. Please email Hagen Fritz at hagenfritz@utexas.edu if you would wish to help out with the current or future events.
+
+## How do I work this website?
+We are using Github because we can upload documents about the competition, pictures, and other files from this and previous years of the challenge. Most of the information that you need about the actual competition can be found on the [wiki](https://github.com/intelligent-environments-lab/sustainable-dog-house-challenge/wiki) pages, but another nice aspect of Github that we are leveraging for this competition is the [issues](https://github.com/intelligent-environments-lab/sustainable-dog-house-challenge/issues) tab that you can find at the top. Here, participants and others can "raise" issues to ask questions, give feedback/suggestions, and anything else they think is pertinent to the competition.
+
+The [video]() below gives a little overview of how to use this specific Github repository to its fullest extend.
