@@ -1,4 +1,7 @@
 # UT Austin Sustainable Dog House Challenge
+
+_Be sure to check out the [Wiki](https://github.com/intelligent-environments-lab/sustainable-dog-house-challenge/wiki) for even more information!_
+
 The Sustainable Dog House Challenge (SDHC) was started at the University of Texas at Austin in 2016 by Dr. Richard L. Corsi, the department chair at the time. Dr. Corsi combined his love of dogs, passion for sustainability, and ideals from the department to bring students this challenge. Click the image below to watch the [video](https://www.youtube.com/watch?v=qfngNVp9Ezk) about this year's competition. 
 
 [![SDHC Promo](https://github.com/intelligent-environments-lab/sustainable-dog-house-challenge/blob/main/2021/pictures/promo_thumbnail.jpg)](https://www.youtube.com/embed/qfngNVp9Ezk)
